@@ -2,6 +2,7 @@ FROM gcr.io/cloudshell-images/cloudshell:latest
 
 # Add your content here
 RUN apt-get install -y neovim
+RUN pip3 install jupyterlab
 
 # To trigger a rebuild of your Cloud Shell image:
 # 1. Commit your changes locally: git commit -a
