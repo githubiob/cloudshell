@@ -1,5 +1,5 @@
 {
  "description": "Marker file indicating this is a repository that defines a Cloud Shell custom image.",
- "projectId": "dev-tools-250807",
- "repoId": "my-dev-env"
+ "projectId": "nlp-ml-ai",
+ "repoId": "cloudshell-custom"
 }
